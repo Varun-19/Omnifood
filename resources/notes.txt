@@ -1,0 +1,5 @@
+waypoint jQuery
+smooth scrolling
+jQuery
+make it work with older browsers
+media queries
